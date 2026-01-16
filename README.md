@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="#-à-propos-de-moi">🇫🇷 Français</a> |
+  <a href="#-about-me">🇬🇧 English</a>
+</p>
+
+
+
 ## 👋 À propos de moi
 ---
 
