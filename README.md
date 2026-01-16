@@ -4,7 +4,7 @@
 </p>
 
 
-
+md
 ## 👋 À propos de moi
 ---
 
@@ -79,6 +79,31 @@ Je développe actuellement des projets **personnels** et **freelance**, et je re
 
 ### Design / Créatif
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+md
+
+##👋 About Me
+---
+
+Hi, my name is **Glenn** 👋
+I am a Full Stack Developer with over **3 years of experience**, specializing in **JavaScript / TypeScript**, with a strong focus on both **Front-end** and **Back-end** development.
+
+I enjoy building **robust**, **high-performance**, and **user-friendly applications**, with a particular attention to **UX/UI** in order to deliver the best possible user experience.
+
+I work across the full development cycle, including:
+
+- modern front-end applications
+
+- back-end APIs
+
+- full front ↔ back integration
+
+- database design and architecture (SQL)
+
+I am currently developing **personal** and **freelance** projects, and I am open to new professional opportunities.
+
+📌 Current status: Open to opportunities
 
 
 
