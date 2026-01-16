@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="#-à-propos-de-moi">🇫🇷 Français</a> |
-  <a href="#-about-me">🇬🇧 English</a>
+  <a href="#-à-propos-de-moi"> Français</a> |
+  <a href="#-about-me"> English</a>
 </p>
 
 
-md
+
 ## 👋 À propos de moi
 ---
 
@@ -81,9 +81,9 @@ Je développe actuellement des projets **personnels** et **freelance**, et je re
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-md
 
-##👋 About Me
+
+## 👋 About Me
 ---
 
 Hi, my name is **Glenn** 👋
