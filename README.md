@@ -87,6 +87,7 @@ Je développe actuellement des projets **personnels** et **freelance**, et je re
 ---
 
 Hi, my name is **Glenn** 👋
+
 I am a Full Stack Developer with over **3 years of experience**, specializing in **JavaScript / TypeScript**, with a strong focus on both **Front-end** and **Back-end** development.
 
 I enjoy building **robust**, **high-performance**, and **user-friendly applications**, with a particular attention to **UX/UI** in order to deliver the best possible user experience.
