@@ -21,7 +21,7 @@ Je travaille aussi bien sur :
 
 Je développe actuellement des projets **personnels** et **freelance**, et je reste ouvert à de **nouvelles opportunités professionnelles**.
 
-📌 **Statut actuel :** En recherche d’opportunité
+📌 **Statut actuel :** Sous Contrat
 
 ## 🌐 Me contacter / Contact
 ---
@@ -104,7 +104,7 @@ I work across the full development cycle, including:
 
 I am currently developing **personal** and **freelance** projects, and I am open to new professional opportunities.
 
-📌 Current status: Open to opportunities
+📌 Current status: under contract
 
 
 
