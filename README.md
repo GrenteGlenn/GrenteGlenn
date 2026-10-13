@@ -99,7 +99,7 @@ I work across the full development cycle, including:
 
 I am currently developing **personal** and **freelance** projects, and I am open to new professional opportunities.
 
-📌 Current status: under contract
+📌 Current status: Open to Work
 
 
 
