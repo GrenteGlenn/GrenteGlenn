@@ -21,7 +21,7 @@ Je travaille aussi bien sur :
 
 Je développe actuellement des projets **personnels** et **freelance**, et je reste ouvert à de **nouvelles opportunités professionnelles**.
 
-📌 **Statut actuel :** Sous Contrat
+📌 **Statut actuel :** Open to Work
 
 ## 🌐 Me contacter / Contact
 ---
@@ -49,10 +49,7 @@ Je développe actuellement des projets **personnels** et **freelance**, et je re
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
 
 ### Temps réel / Reel Time
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
@@ -62,14 +59,12 @@ Je développe actuellement des projets **personnels** et **freelance**, et je re
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge)
 
 ### Outils & Collaboration / Tools & Collab
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
